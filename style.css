@@ -1,0 +1,14 @@
+.col{
+  width: 80px;
+  height:80px;
+  border: 1px solid black;
+  flex: none;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
